@@ -1,4 +1,4 @@
-<p align="right">🇪🇸 Español · <a href="README.en.md">🇬🇧 English</a></p>
+<p align="right">🇪🇸 Español 
 
 # Calculadora Android
 
